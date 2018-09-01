@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- arguments -->
+  <param name="use_sim_time" value="true" />
+  <arg name="nodelet_manager" default="velodyne_nodelet_manage" />
+  <arg name="enable_floor_detection" default="true" />
+  <arg name="enable_gps" default="true" />
+
+  <!-- in case you use velodyne_driver, comment out the following line -->
+  <node pkg="nodelet" type="nodelet" name="$(arg nodelet_manager)" args="manager" output="screen"/>
+
+  <!-- prefiltering_nodelet -->
+  <node pkg="nodelet" type="nodelet" name="prefiltering_nodelet" args="load hdl_graph_slam/PrefilteringNodelet $(arg nodelet_manager)">
+    <param name="use_distance_filter" value="true" />   <!--使用距离滤波-->
+    <param name="distance_near_thresh" value="1.0" />   <!--使用大于该距离范围的点云-->
+    <param name="distance_far_thresh" value="50.0" />   <!--使用小于该距离范围的点云-->
+    <!-- NONE, VOXELGRID, or APPROX_VOXELGRID -->
+    <param name="downsample_method" value="VOXELGRID" />  <!--采取不同下采样的方法-->
+    <param name="downsample_resolution" value="0.2" />   <!--下采用分辨率-->
+    <!-- NONE, RADIUS, or STATISTICAL -->
+    <param name="outlier_removal_method" value="RADIUS" />  <!--外点过滤-->
+    <param name="statistical_mean_k" value="30" />         <!--统计的方式过滤外点，周围的neighbor数目最小30-->
+    <param name="statistical_stddev" value="1.2" />         <!--统计的方式过滤外点，设置判断是否为离群点的阈值-->
+    <param name="radius_radius" value="0.5" />              <!--以半径为0.5米的方式进行统计-->
+    <param name="radius_min_neighbors" value="5" />           <!--统计的邻居的最小数目为5-->
+  </node>
+
+  <!-- scan_matching_odometry_nodelet -->
+  <node pkg="nodelet" type="nodelet" name="scan_matching_odometry_nodelet" args="load hdl_graph_slam/ScanMatchingOdometryNodelet $(arg nodelet_manager)">
+      <param name="keyframe_delta_trans" value="2.5" />       <!--两个关键帧进行匹配的最小距离间隔，如果设置的太小，就变成前后帧进行匹配-->
+      <param name="keyframe_delta_angle" value="1.0" />         <!--两个关键帧进行匹配的最小角度间隔-->
+      <param name="keyframe_delta_time" value="5.0" />            <!--两个关键帧进行匹配的时间间隔-->
+      <param name="transform_thresholding" value="false" />
+      <param name="max_acceptable_trans" value="2.0" />   <!--如果两个关键帧匹配后的相对位移太大，就丢弃当前帧，而采用上一帧的变换-->
+      <param name="max_acceptable_angle" value="1.0" />    <!--如果两个关键帧匹配后的相对角度太大，就丢弃当前帧，而采用上一帧的变换-->
+      <param name="downsample_method" value="NONE" />      <!--(VOXELGRID, APPROX_VOXELGRID, NONE)-->
+      <param name="downsample_resolution" value="0.1" />
+      <!-- ICP, GICP, NDT, GICP_OMP, or NDT_OMP(recommended) -->  <!--这里如果选择KDTREE，那么和传统的NDT算法一致，剩下的速度比较： DIRECT1》DIRECT7， 但是DIRECT7更稳定同时速度比KDTREE 快-->
+      <param name="registration_method" value="NDT_OMP" />
+      <param name="ndt_resolution" value="2.0" />   <!--比较重要的参数，设置ndt 分辨率-->
+      <param name="ndt_num_threads" value="0" />     <!--比较重要的参数，设置ndt 线程数，可以多线程运行，提高速度-->
+      <param name="ndt_nn_search_method" value="DIRECT7" />  <!--比kdtree 快-->
+  </node>
+
+  <!-- floor_detection_nodelet -->
+  <node pkg="nodelet" type="nodelet" name="floor_detection_nodelet" args="load hdl_graph_slam/FloorDetectionNodelet $(arg nodelet_manager)"  if="$(arg enable_floor_detection)">
+    <param name="sensor_height" value="2.0" />       <!--approximate sensor height [m]-->
+    <param name="height_clip_range" value="0.5" />    <!--points with heights in [sensor_height - height_clip_range, sensor_height + height_clip_range] will be used for floor detection-->
+    <param name="floor_pts_thresh" value="1024" />    <!-- minimum number of support points of RANSAC to accept a detected floor plane-->
+    <param name="floor_normal_thresh" value="5.0" />    <!--verticality check thresold for the detected floor plane [deg]-->
+    <param name="use_normal_fitlering" value="true" />   <!--if true, points with "non-"vertical normals will be filtered before RANSAC-->
+    <param name="normal_filter_thresh" value="10.0" />      <!--"non-"verticality check threshold [deg]-->
+  </node>
+
+  <!-- hdl_graph_slam_nodelet -->
+  <node pkg="nodelet" type="nodelet" name="hdl_graph_slam_nodelet" args="load hdl_graph_slam/HdlGraphSlamNodelet $(arg nodelet_manager)">
+    <!-- keyframe registration params -->
+    <param name="enable_gps" value="$(arg enable_gps)" />
+    <param name="max_keyframes_per_update" value="10" />   <!--设置每次循环从keyframe 加入到loop的数目-->
+    <param name="keyframe_delta_trans" value="10.0" />     <!--设置前后两帧匹配的的距离，不能太近也不能太远，如果是0，就变成前后帧匹配-->
+    <param name="keyframe_delta_angle" value="3.0" />      <!--设置前后两帧匹配的的角度，不能太近也不能太远，如果是0，就变成前后帧匹配-->
+    <!-- loop closure params -->
+    <param name="distance_thresh" value="30.0" />             <!--小于该阈值范围内两个关键帧为潜在闭环帧，将所有满足条件的都存起来作为candidate-->
+    <param name="accum_distance_thresh" value="60.0" />      <!-- 这里指的是当前帧与临近帧的距离阈值，假设距离阈值为5m, 那么当前帧距离5米范围内关键帧不再考虑-->
+    <param name="min_edge_interval" value="10.0" />          <!-- 这里指的是当前帧与临近帧的距离阈值，假设距离阈值为5m, 那么当前帧距离5米范围内关键帧不再考虑-->
+    <param name="fitness_score_thresh" value="2.0" />         <!-- 闭环帧匹配得分-->
+    <!-- scan matching params -->
+    <param name="registration_method" value="NDT_OMP" />       <!-- 闭环帧匹配方法-->
+    <param name="ndt_resolution" value="2.0" />                 <!-- 闭环帧匹配分辨率-->
+    <param name="ndt_num_threads" value="0" />                   <!-- 闭环帧匹配线程数目-->
+    <param name="ndt_nn_search_method" value="DIRECT7" />          <!-- 闭环帧寻找临近点搜索方法-->
+    <!-- information matrix params -->
+    <param name="floor_edge_stddev" value="100.0" />                <!-- 地面约束XYZ的信息矩阵 1/100-->
+    <param name="gps_edge_stddev" value="1000.0" />                 <!-- GPS约束XY的信息矩阵 1/1000-->
+    <param name="use_const_inf_matrix" value="false" />              <!-- 是否使用常值信息矩阵对于闭环帧匹配-->
+    <param name="const_stddev_x" value="0.5" />                        <!--设置XYZ常值信息矩阵1/0.5-->
+    <param name="const_stddev_q" value="0.1" />                        <!--设置角度常值信息矩阵1/0.5-->
+    <param name="var_gain_a" value="20.0" />                           <!--设置动态信息矩阵增益-->
+    <param name="min_stddev_x" value="0.1" />                           <!--设置动态信息矩阵xyz最小值-->
+    <param name="max_stddev_x" value="5.0" />                           <!--设置动态信息矩阵xyz最大值-->
+    <param name="min_stddev_q" value="0.05" />                          <!--设置动态信息矩阵角度最小值-->
+    <param name="max_stddev_q" value="0.2" />                            <!--设置动态信息矩阵角度最大值-->
+    <!-- update params -->
+    <param name="graph_update_interval" value="3.0" />                 <!--graph_update_interval 的更新频率-->
+    <param name="map_cloud_update_interval" value="10.0" />              <!--全局地图的更新频率-->
+    <param name="map_cloud_resolution" value="0.05" />                    <!--全局地图的分辨率的更新频率-->
+  </node>
+
+  <node pkg="hdl_graph_slam" type="map2odom_publisher.py" name="map2odom_publisher" />
+</launch>

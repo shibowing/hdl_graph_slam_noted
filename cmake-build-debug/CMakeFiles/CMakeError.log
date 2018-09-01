@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/machozhao/zhao_ws/src/hdl_graph_slam/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_01c51/fast"
+/usr/bin/make -f CMakeFiles/cmTC_01c51.dir/build.make CMakeFiles/cmTC_01c51.dir/build
+make[1]: Entering directory '/home/machozhao/zhao_ws/src/hdl_graph_slam/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_01c51.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_01c51.dir/CheckSymbolExists.c.o   -c /home/machozhao/zhao_ws/src/hdl_graph_slam/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_01c51
+/home/machozhao/software/clion-2018.1.5/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_01c51.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_01c51.dir/CheckSymbolExists.c.o  -o cmTC_01c51 
+CMakeFiles/cmTC_01c51.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_01c51.dir/build.make:97: recipe for target 'cmTC_01c51' failed
+make[1]: *** [cmTC_01c51] Error 1
+make[1]: Leaving directory '/home/machozhao/zhao_ws/src/hdl_graph_slam/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_01c51/fast' failed
+make: *** [cmTC_01c51/fast] Error 2
+
+File /home/machozhao/zhao_ws/src/hdl_graph_slam/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/machozhao/zhao_ws/src/hdl_graph_slam/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1782c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1782c.dir/build.make CMakeFiles/cmTC_1782c.dir/build
+make[1]: Entering directory '/home/machozhao/zhao_ws/src/hdl_graph_slam/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1782c.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_1782c.dir/CheckFunctionExists.c.o   -c /home/machozhao/software/clion-2018.1.5/bin/cmake/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_1782c
+/home/machozhao/software/clion-2018.1.5/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1782c.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_1782c.dir/CheckFunctionExists.c.o  -o cmTC_1782c -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_1782c.dir/build.make:97: recipe for target 'cmTC_1782c' failed
+make[1]: *** [cmTC_1782c] Error 1
+make[1]: Leaving directory '/home/machozhao/zhao_ws/src/hdl_graph_slam/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_1782c/fast' failed
+make: *** [cmTC_1782c/fast] Error 2
+
+

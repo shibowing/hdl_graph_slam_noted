@@ -1,0 +1,329 @@
+/home/machozhao/software/clion-2018.1.5/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/machozhao/zhao_ws/src/hdl_graph_slam
+-- The C compiler identification is GNU 5.4.0
+-- The CXX compiler identification is GNU 5.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Using CATKIN_DEVEL_PREFIX: /home/machozhao/zhao_ws/src/hdl_graph_slam/cmake-build-debug/devel
+-- Using CMAKE_PREFIX_PATH: /home/machozhao/zhao_ws/devel;/home/machozhao/catkin_ws/devel;/opt/ros/kinetic
+-- This workspace overlays: /home/machozhao/zhao_ws/devel;/home/machozhao/catkin_ws/devel;/opt/ros/kinetic
+-- Found PythonInterp: /usr/bin/python (found version "2.7.12") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/machozhao/zhao_ws/src/hdl_graph_slam/cmake-build-debug/test_results
+-- Found gmock sources under '/usr/src/gmock': gmock will be built
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - not found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Found gtest sources under '/usr/src/gmock': gtests will be built
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.11
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+-- Checking for module 'eigen3'
+--   Found eigen3, version 3.1.91
+-- Found eigen: /usr/local/include/eigen3  
+-- Boost version: 1.58.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   thread
+--   date_time
+--   iostreams
+--   serialization
+--   chrono
+--   atomic
+--   regex
+-- Checking for module 'flann'
+--   Found flann, version 1.8.4
+-- Found Flann: /usr/lib/x86_64-linux-gnu/libflann_cpp_s.a  
+-- Checking for module 'libopenni'
+--   Found libopenni, version 1.5.4.0
+-- Found openni: /usr/lib/libOpenNI.so  
+-- Checking for module 'libopenni2'
+--   No package 'libopenni2' found
+-- Could NOT find OpenNI2 (missing: OPENNI2_LIBRARY OPENNI2_INCLUDE_DIRS) 
+** WARNING ** io features related to openni2 will be disabled
+-- Could NOT find ensenso (missing: ENSENSO_LIBRARY ENSENSO_INCLUDE_DIR) 
+** WARNING ** io features related to ensenso will be disabled
+-- Could NOT find DAVIDSDK (missing: DAVIDSDK_LIBRARY DAVIDSDK_INCLUDE_DIR) 
+** WARNING ** io features related to davidSDK will be disabled
+-- Could NOT find DSSDK (missing: _DSSDK_LIBRARIES) 
+** WARNING ** io features related to dssdk will be disabled
+** WARNING ** io features related to pcap will be disabled
+** WARNING ** io features related to png will be disabled
+-- The imported target "vtkRenderingPythonTkWidgets" references the file
+   "/usr/lib/x86_64-linux-gnu/libvtkRenderingPythonTkWidgets.so"
+but this file does not exist.  Possible reasons include:
+* The file was deleted, renamed, or moved to another location.
+* An install or uninstall procedure did not complete successfully.
+* The installation package was faulty and contained
+   "/usr/lib/cmake/vtk-6.2/VTKTargets.cmake"
+but not all the files it references.
+
+-- The imported target "vtk" references the file
+   "/usr/bin/vtk"
+but this file does not exist.  Possible reasons include:
+* The file was deleted, renamed, or moved to another location.
+* An install or uninstall procedure did not complete successfully.
+* The installation package was faulty and contained
+   "/usr/lib/cmake/vtk-6.2/VTKTargets.cmake"
+but not all the files it references.
+
+-- Found libusb-1.0: /usr/include  
+** WARNING ** io features related to libusb-1.0 will be disabled
+-- Checking for module 'libopenni2'
+--   No package 'libopenni2' found
+-- Could NOT find OpenNI2 (missing: OPENNI2_LIBRARY OPENNI2_INCLUDE_DIRS) 
+** WARNING ** visualization features related to openni2 will be disabled
+-- Could NOT find ensenso (missing: ENSENSO_LIBRARY ENSENSO_INCLUDE_DIR) 
+** WARNING ** visualization features related to ensenso will be disabled
+-- Could NOT find DAVIDSDK (missing: DAVIDSDK_LIBRARY DAVIDSDK_INCLUDE_DIR) 
+** WARNING ** visualization features related to davidSDK will be disabled
+-- Could NOT find DSSDK (missing: _DSSDK_LIBRARIES) 
+** WARNING ** visualization features related to dssdk will be disabled
+-- Could NOT find RSSDK (missing: _RSSDK_LIBRARIES) 
+** WARNING ** visualization features related to rssdk will be disabled
+-- Found qhull: /usr/lib/x86_64-linux-gnu/libqhull.so  
+-- looking for PCL_COMMON
+-- Found PCL_COMMON: /usr/local/lib/libpcl_common.so  
+-- looking for PCL_KDTREE
+-- Found PCL_KDTREE: /usr/local/lib/libpcl_kdtree.so  
+-- looking for PCL_OCTREE
+-- Found PCL_OCTREE: /usr/local/lib/libpcl_octree.so  
+-- looking for PCL_SEARCH
+-- Found PCL_SEARCH: /usr/local/lib/libpcl_search.so  
+-- looking for PCL_SAMPLE_CONSENSUS
+-- Found PCL_SAMPLE_CONSENSUS: /usr/local/lib/libpcl_sample_consensus.so  
+-- looking for PCL_FILTERS
+-- Found PCL_FILTERS: /usr/local/lib/libpcl_filters.so  
+-- looking for PCL_TRACKING
+-- Found PCL_TRACKING: /usr/local/lib/libpcl_tracking.so  
+-- looking for PCL_IO
+-- Found PCL_IO: /usr/local/lib/libpcl_io.so  
+-- looking for PCL_2D
+-- Found PCL_2D: /usr/local/include/pcl-1.8  
+-- looking for PCL_FEATURES
+-- Found PCL_FEATURES: /usr/local/lib/libpcl_features.so  
+-- looking for PCL_REGISTRATION
+-- Found PCL_REGISTRATION: /usr/local/lib/libpcl_registration.so  
+-- looking for PCL_GEOMETRY
+-- Found PCL_GEOMETRY: /usr/local/include/pcl-1.8  
+-- looking for PCL_ML
+-- Found PCL_ML: /usr/local/lib/libpcl_ml.so  
+-- looking for PCL_SEGMENTATION
+-- Found PCL_SEGMENTATION: /usr/local/lib/libpcl_segmentation.so  
+-- looking for PCL_VISUALIZATION
+-- Found PCL_VISUALIZATION: /usr/local/lib/libpcl_visualization.so  
+-- looking for PCL_SURFACE
+-- Found PCL_SURFACE: /usr/local/lib/libpcl_surface.so  
+-- looking for PCL_KEYPOINTS
+-- Found PCL_KEYPOINTS: /usr/local/lib/libpcl_keypoints.so  
+-- looking for PCL_RECOGNITION
+-- Found PCL_RECOGNITION: /usr/local/lib/libpcl_recognition.so  
+-- looking for PCL_STEREO
+-- Found PCL_STEREO: /usr/local/lib/libpcl_stereo.so  
+-- looking for PCL_OUTOFCORE
+-- Found PCL_OUTOFCORE: /usr/local/lib/libpcl_outofcore.so  
+-- looking for PCL_PEOPLE
+-- Found PCL_PEOPLE: /usr/local/lib/libpcl_people.so  
+-- Found PCL: /usr/lib/x86_64-linux-gnu/libboost_system.so;/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;/usr/lib/x86_64-linux-gnu/libboost_thread.so;/usr/lib/x86_64-linux-gnu/libboost_date_time.so;/usr/lib/x86_64-linux-gnu/libboost_iostreams.so;/usr/lib/x86_64-linux-gnu/libboost_serialization.so;/usr/lib/x86_64-linux-gnu/libboost_chrono.so;/usr/lib/x86_64-linux-gnu/libboost_atomic.so;/usr/lib/x86_64-linux-gnu/libboost_regex.so;optimized;/usr/local/lib/libpcl_common.so;debug;/usr/local/lib/libpcl_common.so;optimized;/usr/lib/x86_64-linux-gnu/libflann_cpp_s.a;debug;/usr/lib/x86_64-linux-gnu/libflann_cpp_s.a;optimized;/usr/local/lib/libpcl_kdtree.so;debug;/usr/local/lib/libpcl_kdtree.so;optimized;/usr/local/lib/libpcl_octree.so;debug;/usr/local/lib/libpcl_octree.so;optimized;/usr/local/lib/libpcl_search.so;debug;/usr/local/lib/libpcl_search.so;optimized;/usr/local/lib/libpcl_sample_consensus.so;debug;/usr/local/lib/libpcl_sample_consensus.so;optimized;/usr/local/lib/libpcl_filters.so;debug;/usr/local/lib/libpcl_filters.so;optimized;/usr/local/lib/libpcl_tracking.so;debug;/usr/local/lib/libpcl_tracking.so;/usr/lib/libOpenNI.so;vtkChartsCore;vtkCommonColor;vtkCommonDataModel;vtkCommonMath;vtkCommonCore;vtksys;vtkCommonMisc;vtkCommonSystem;vtkCommonTransforms;vtkInfovisCore;vtkFiltersExtraction;vtkCommonExecutionModel;vtkFiltersCore;vtkFiltersGeneral;vtkCommonComputationalGeometry;vtkFiltersStatistics;vtkImagingFourier;vtkImagingCore;vtkalglib;vtkRenderingContext2D;vtkRenderingCore;vtkFiltersGeometry;vtkFiltersSources;vtkRenderingFreeType;/usr/lib/x86_64-linux-gnu/libfreetype.so;/usr/lib/x86_64-linux-gnu/libz.so;vtkftgl;vtkDICOMParser;vtkDomainsChemistry;vtkIOXML;vtkIOGeometry;vtkIOCore;/usr/lib/x86_64-linux-gnu/libjsoncpp.so;vtkIOXMLParser;/usr/lib/x86_64-linux-gnu/libexpat.so;vtkFiltersAMR;vtkParallelCore;vtkIOLegacy;vtkFiltersFlowPaths;vtkFiltersGeneric;vtkFiltersHybrid;vtkImagingSources;vtkFiltersHyperTree;vtkFiltersImaging;vtkImagingGeneral;vtkFiltersModeling;vtkFiltersParallel;vtkFiltersParallelFlowPaths;vtkParallelMPI;vtkFiltersParallelGeometry;vtkFiltersParallelImaging;vtkFiltersParallelMPI;vtkFiltersParallelStatistics;vtkFiltersProgrammable;vtkFiltersPython;/usr/lib/x86_64-linux-gnu/libpython2.7.so;vtkWrappingPythonCore;vtkWrappingTools;vtkFiltersReebGraph;vtkFiltersSMP;vtkFiltersSelection;vtkFiltersTexture;vtkFiltersVerdict;verdict;vtkGUISupportQt;vtkInteractionStyle;vtkRenderingOpenGL;vtkImagingHybrid;vtkIOImage;vtkmetaio;/usr/lib/x86_64-linux-gnu/libjpeg.so;/usr/lib/x86_64-linux-gnu/libpng.so;/usr/lib/x86_64-linux-gnu/libtiff.so;vtkGUISupportQtOpenGL;vtkGUISupportQtSQL;vtkIOSQL;sqlite3;vtkGUISupportQtWebkit;vtkViewsQt;vtkViewsInfovis;vtkInfovisLayout;vtkRenderingLabel;vtkViewsCore;vtkInteractionWidgets;vtkRenderingAnnotation;vtkImagingColor;vtkRenderingVolume;vtkGeovisCore;vtkproj4;vtkIOAMR;/usr/lib/x86_64-linux-gnu/hdf5/openmpi/lib/libhdf5.so;/usr/lib/x86_64-linux-gnu/libsz.so;/usr/lib/x86_64-linux-gnu/libdl.so;/usr/lib/x86_64-linux-gnu/libm.so;/usr/lib/x86_64-linux-gnu/hdf5/openmpi/lib/libhdf5_hl.so;/usr/lib/openmpi/lib/libmpi.so;vtkIOEnSight;vtkIOExodus;vtkexoIIc;/usr/lib/x86_64-linux-gnu/libnetcdf_c++.so;/usr/lib/x86_64-linux-gnu/libnetcdf.so;vtkIOExport;vtkRenderingGL2PS;vtkRenderingContextOpenGL;/usr/lib/libgl2ps.so;vtkIOFFMPEG;vtkIOMovie;/usr/lib/x86_64-linux-gnu/libtheoraenc.so;/usr/lib/x86_64-linux-gnu/libtheoradec.so;/usr/lib/x86_64-linux-gnu/libogg.so;vtkIOGDAL;vtkIOGeoJSON;vtkIOImport;vtkIOInfovis;/usr/lib/x86_64-linux-gnu/libxml2.so;vtkIOLSDyna;vtkIOMINC;vtkIOMPIImage;vtkIOMPIParallel;vtkIOMySQL;vtkIONetCDF;vtkIOODBC;vtkIOPLY;vtkIOParallel;vtkIOParallelExodus;vtkIOParallelLSDyna;vtkIOParallelNetCDF;vtkIOParallelXML;vtkIOPostgreSQL;vtkIOVPIC;VPIC;vtkIOVideo;vtkIOXdmf2;vtkxdmf2;vtkImagingMath;vtkImagingMorphological;vtkImagingStatistics;vtkImagingStencil;vtkInfovisBoostGraphAlgorithms;vtkInteractionImage;vtkLocalExample;vtkParallelMPI4Py;vtkPythonInterpreter;vtkRenderingExternal;vtkRenderingFreeTypeFontConfig;vtkRenderingFreeTypeOpenGL;vtkRenderingImage;vtkRenderingLIC;vtkRenderingLOD;vtkRenderingMatplotlib;vtkRenderingParallel;vtkRenderingParallelLIC;vtkRenderingQt;vtkRenderingVolumeOpenGL;vtkTestingGenericBridge;vtkTestingIOSQL;vtkTestingRendering;vtkViewsContext2D;vtkViewsGeovis;vtkWrappingJava;optimized;/usr/local/lib/libpcl_io.so;debug;/usr/local/lib/libpcl_io.so;optimized;/usr/local/lib/libpcl_features.so;debug;/usr/local/lib/libpcl_features.so;optimized;/usr/local/lib/libpcl_registration.so;debug;/usr/local/lib/libpcl_registration.so;optimized;/usr/local/lib/libpcl_ml.so;debug;/usr/local/lib/libpcl_ml.so;optimized;/usr/local/lib/libpcl_segmentation.so;debug;/usr/local/lib/libpcl_segmentation.so;optimized;/usr/local/lib/libpcl_visualization.so;debug;/usr/local/lib/libpcl_visualization.so;optimized;/usr/lib/x86_64-linux-gnu/libqhull.so;debug;/usr/lib/x86_64-linux-gnu/libqhull.so;optimized;/usr/local/lib/libpcl_surface.so;debug;/usr/local/lib/libpcl_surface.so;optimized;/usr/local/lib/libpcl_keypoints.so;debug;/usr/local/lib/libpcl_keypoints.so;optimized;/usr/local/lib/libpcl_recognition.so;debug;/usr/local/lib/libpcl_recognition.so;optimized;/usr/local/lib/libpcl_stereo.so;debug;/usr/local/lib/libpcl_stereo.so;optimized;/usr/local/lib/libpcl_outofcore.so;debug;/usr/local/lib/libpcl_outofcore.so;optimized;/usr/local/lib/libpcl_people.so;debug;/usr/local/lib/libpcl_people.so;/usr/lib/x86_64-linux-gnu/libboost_system.so;/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;/usr/lib/x86_64-linux-gnu/libboost_thread.so;/usr/lib/x86_64-linux-gnu/libboost_date_time.so;/usr/lib/x86_64-linux-gnu/libboost_iostreams.so;/usr/lib/x86_64-linux-gnu/libboost_serialization.so;/usr/lib/x86_64-linux-gnu/libboost_chrono.so;/usr/lib/x86_64-linux-gnu/libboost_atomic.so;/usr/lib/x86_64-linux-gnu/libboost_regex.so;optimized;/usr/lib/x86_64-linux-gnu/libqhull.so;debug;/usr/lib/x86_64-linux-gnu/libqhull.so;/usr/lib/libOpenNI.so;optimized;/usr/lib/x86_64-linux-gnu/libflann_cpp_s.a;debug;/usr/lib/x86_64-linux-gnu/libflann_cpp_s.a;vtkChartsCore;vtkCommonColor;vtkCommonDataModel;vtkCommonMath;vtkCommonCore;vtksys;vtkCommonMisc;vtkCommonSystem;vtkCommonTransforms;vtkInfovisCore;vtkFiltersExtraction;vtkCommonExecutionModel;vtkFiltersCore;vtkFiltersGeneral;vtkCommonComputationalGeometry;vtkFiltersStatistics;vtkImagingFourier;vtkImagingCore;vtkalglib;vtkRenderingContext2D;vtkRenderingCore;vtkFiltersGeometry;vtkFiltersSources;vtkRenderingFreeType;/usr/lib/x86_64-linux-gnu/libfreetype.so;/usr/lib/x86_64-linux-gnu/libz.so;vtkftgl;vtkDICOMParser;vtkDomainsChemistry;vtkIOXML;vtkIOGeometry;vtkIOCore;/usr/lib/x86_64-linux-gnu/libjsoncpp.so;vtkIOXMLParser;/usr/lib/x86_64-linux-gnu/libexpat.so;vtkFiltersAMR;vtkParallelCore;vtkIOLegacy;vtkFiltersFlowPaths;vtkFiltersGeneric;vtkFiltersHybrid;vtkImagingSources;vtkFiltersHyperTree;vtkFiltersImaging;vtkImagingGeneral;vtkFiltersModeling;vtkFiltersParallel;vtkFiltersParallelFlowPaths;vtkParallelMPI;vtkFiltersParallelGeometry;vtkFiltersParallelImaging;vtkFiltersParallelMPI;vtkFiltersParallelStatistics;vtkFiltersProgrammable;vtkFiltersPython;/usr/lib/x86_64-linux-gnu/libpython2.7.so;vtkWrappingPythonCore;vtkWrappingTools;vtkFiltersReebGraph;vtkFiltersSMP;vtkFiltersSelection;vtkFiltersTexture;vtkFiltersVerdict;verdict;vtkGUISupportQt;vtkInteractionStyle;vtkRenderingOpenGL;vtkImagingHybrid;vtkIOImage;vtkmetaio;/usr/lib/x86_64-linux-gnu/libjpeg.so;/usr/lib/x86_64-linux-gnu/libpng.so;/usr/lib/x86_64-linux-gnu/libtiff.so;vtkGUISupportQtOpenGL;vtkGUISupportQtSQL;vtkIOSQL;sqlite3;vtkGUISupportQtWebkit;vtkViewsQt;vtkViewsInfovis;vtkInfovisLayout;vtkRenderingLabel;vtkViewsCore;vtkInteractionWidgets;vtkRenderingAnnotation;vtkImagingColor;vtkRenderingVolume;vtkGeovisCore;vtkproj4;vtkIOAMR;/usr/lib/x86_64-linux-gnu/hdf5/openmpi/lib/libhdf5.so;/usr/lib/x86_64-linux-gnu/libsz.so;/usr/lib/x86_64-linux-gnu/libdl.so;/usr/lib/x86_64-linux-gnu/libm.so;/usr/lib/x86_64-linux-gnu/hdf5/openmpi/lib/libhdf5_hl.so;/usr/lib/openmpi/lib/libmpi.so;vtkIOEnSight;vtkIOExodus;vtkexoIIc;/usr/lib/x86_64-linux-gnu/libnetcdf_c++.so;/usr/lib/x86_64-linux-gnu/libnetcdf.so;vtkIOExport;vtkRenderingGL2PS;vtkRenderingContextOpenGL;/usr/lib/libgl2ps.so;vtkIOFFMPEG;vtkIOMovie;/usr/lib/x86_64-linux-gnu/libtheoraenc.so;/usr/lib/x86_64-linux-gnu/libtheoradec.so;/usr/lib/x86_64-linux-gnu/libogg.so;vtkIOGDAL;vtkIOGeoJSON;vtkIOImport;vtkIOInfovis;/usr/lib/x86_64-linux-gnu/libxml2.so;vtkIOLSDyna;vtkIOMINC;vtkIOMPIImage;vtkIOMPIParallel;vtkIOMySQL;vtkIONetCDF;vtkIOODBC;vtkIOPLY;vtkIOParallel;vtkIOParallelExodus;vtkIOParallelLSDyna;vtkIOParallelNetCDF;vtkIOParallelXML;vtkIOPostgreSQL;vtkIOVPIC;VPIC;vtkIOVideo;vtkIOXdmf2;vtkxdmf2;vtkImagingMath;vtkImagingMorphological;vtkImagingStatistics;vtkImagingStencil;vtkInfovisBoostGraphAlgorithms;vtkInteractionImage;vtkLocalExample;vtkParallelMPI4Py;vtkPythonInterpreter;vtkRenderingExternal;vtkRenderingFreeTypeFontConfig;vtkRenderingFreeTypeOpenGL;vtkRenderingImage;vtkRenderingLIC;vtkRenderingLOD;vtkRenderingMatplotlib;vtkRenderingParallel;vtkRenderingParallelLIC;vtkRenderingQt;vtkRenderingVolumeOpenGL;vtkTestingGenericBridge;vtkTestingIOSQL;vtkTestingRendering;vtkViewsContext2D;vtkViewsGeovis;vtkWrappingJava (Required is at least version "1.7") 
+-- PCL_INCLUDE_DIRS:/usr/local/include/pcl-1.8/usr/local/include/eigen3/usr/include/usr/include/ni/usr/include/vtk-6.2/usr/include/freetype2/usr/include/x86_64-linux-gnu/freetype2/usr/include/jsoncpp/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include/usr/lib/openmpi/include/usr/lib/openmpi/include/openmpi/usr/include/python2.7/usr/include/x86_64-linux-gnu/usr/include/hdf5/openmpi/usr/include/libxml2/usr/include/tcl
+-- PCL_LIBRARY_DIRS:/usr/local/lib
+-- PCL_DEFINITIONS: -march=native -msse4.2 -mfpmath=sse -DFLANN_STATIC-DDISABLE_OPENNI2-DDISABLE_ENSENSO-DDISABLE_DAVIDSDK-DDISABLE_DSSDK-DDISABLE_PCAP-DDISABLE_PNG-DDISABLE_LIBUSB_1_0-DDISABLE_RSSDK-Dqh_QHpointer
+-- Found OpenMP_C: -fopenmp (found version "4.0") 
+-- Found OpenMP_CXX: -fopenmp (found version "4.0") 
+-- Found OpenMP: TRUE (found version "4.0")  
+-- hdl_graph_slam: 1 messages, 1 services
+-- Configuring done
+CMake Warning at CMakeLists.txt:99 (add_library):
+  Cannot generate a safe linker search path for target hdl_graph_slam_nodelet
+  because files in some directories may conflict with libraries in implicit
+  directories:
+
+    link library [libpcl_common.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_kdtree.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_octree.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_search.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_io.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_sample_consensus.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_filters.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_features.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_segmentation.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_surface.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_registration.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_recognition.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_keypoints.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_visualization.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_people.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_outofcore.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_tracking.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+
+  Some of these libraries may not be found correctly.
+
+
+CMake Warning at CMakeLists.txt:81 (add_library):
+  Cannot generate a safe linker search path for target
+  floor_detection_nodelet because files in some directories may conflict with
+  libraries in implicit directories:
+
+    link library [libpcl_common.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_kdtree.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_octree.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_search.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_io.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_sample_consensus.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_filters.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_features.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_segmentation.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_surface.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_registration.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_recognition.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_keypoints.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_visualization.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_people.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_outofcore.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_tracking.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+
+  Some of these libraries may not be found correctly.
+
+
+CMake Warning at CMakeLists.txt:74 (add_library):
+  Cannot generate a safe linker search path for target prefiltering_nodelet
+  because files in some directories may conflict with libraries in implicit
+  directories:
+
+    link library [libpcl_common.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_kdtree.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_octree.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_search.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_io.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_sample_consensus.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_filters.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_features.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_segmentation.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_surface.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_registration.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_recognition.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_keypoints.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_visualization.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_people.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_outofcore.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_tracking.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+
+  Some of these libraries may not be found correctly.
+
+
+CMake Warning at CMakeLists.txt:89 (add_library):
+  Cannot generate a safe linker search path for target
+  scan_matching_odometry_nodelet because files in some directories may
+  conflict with libraries in implicit directories:
+
+    link library [libpcl_common.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_kdtree.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_octree.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_search.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_io.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_sample_consensus.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_filters.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_features.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_segmentation.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_surface.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_registration.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_recognition.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_keypoints.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_visualization.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_people.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_outofcore.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+    link library [libpcl_tracking.so] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /usr/local/lib
+
+  Some of these libraries may not be found correctly.
+
+
+-- Generating done
+-- Build files have been written to: /home/machozhao/zhao_ws/src/hdl_graph_slam/cmake-build-debug

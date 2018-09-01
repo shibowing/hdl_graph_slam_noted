@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="hdl_graph_slam" targetName="roscpp_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="uuid_msgs_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="nmea_msgs_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="gtest" />
+      <config projectName="hdl_graph_slam" targetName="_hdl_graph_slam_generate_messages_check_deps_FloorCoeffs" />
+      <config projectName="hdl_graph_slam" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="topic_tools_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="pcl_ros_gencfg" />
+      <config projectName="hdl_graph_slam" targetName="geographic_msgs_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="scan_matching_odometry_nodelet" />
+      <config projectName="hdl_graph_slam" targetName="hdl_graph_slam_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="uuid_msgs_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="nmea_msgs_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="dynamic_reconfigure_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="tf_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="tf2_msgs_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="floor_detection_nodelet" />
+      <config projectName="hdl_graph_slam" targetName="nodelet_topic_tools_gencfg" />
+      <config projectName="hdl_graph_slam" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="doxygen" />
+      <config projectName="hdl_graph_slam" targetName="dynamic_reconfigure_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="run_tests" />
+      <config projectName="hdl_graph_slam" targetName="dynamic_reconfigure_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="nodelet_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="hdl_graph_slam_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="nmea_msgs_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="dynamic_reconfigure_gencfg" />
+      <config projectName="hdl_graph_slam" targetName="std_srvs_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="nodelet_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="uuid_msgs_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="bond_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="pcl_msgs_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="hdl_graph_slam_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="topic_tools_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="nmea_msgs_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="hdl_graph_slam_genpy" />
+      <config projectName="hdl_graph_slam" targetName="std_msgs_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="std_srvs_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="tf_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="geographic_msgs_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="tf_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="hdl_graph_slam_genlisp" />
+      <config projectName="hdl_graph_slam" targetName="bond_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="topic_tools_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="hdl_graph_slam_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="std_srvs_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="download_extra_data" />
+      <config projectName="hdl_graph_slam" targetName="nodelet_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="pcl_msgs_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="hdl_graph_slam_gennodejs" />
+      <config projectName="hdl_graph_slam" targetName="pcl_msgs_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="hdl_graph_slam_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="gtest_main" />
+      <config projectName="hdl_graph_slam" targetName="hdl_graph_slam_generate_messages" />
+      <config projectName="hdl_graph_slam" targetName="hdl_graph_slam_geneus" />
+      <config projectName="hdl_graph_slam" targetName="tests" />
+      <config projectName="hdl_graph_slam" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="pcl_msgs_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="bond_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="std_srvs_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="clean_test_results" />
+      <config projectName="hdl_graph_slam" targetName="dynamic_reconfigure_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="hdl_graph_slam_nodelet" />
+      <config projectName="hdl_graph_slam" targetName="tf2_msgs_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="roscpp_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="tf_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="uuid_msgs_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="topic_tools_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="_hdl_graph_slam_generate_messages_check_deps_SaveMap" />
+      <config projectName="hdl_graph_slam" targetName="actionlib_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="nodelet_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="actionlib_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="uuid_msgs_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="geographic_msgs_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="gmock" />
+      <config projectName="hdl_graph_slam" targetName="pcl_msgs_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="tf_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="bond_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="gmock_main" />
+      <config projectName="hdl_graph_slam" targetName="std_srvs_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="hdl_graph_slam" targetName="dynamic_reconfigure_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="geographic_msgs_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="actionlib_msgs_generate_messages_eus" />
+      <config projectName="hdl_graph_slam" targetName="hdl_graph_slam_gencpp" />
+      <config projectName="hdl_graph_slam" targetName="geographic_msgs_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="nodelet_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="topic_tools_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="prefiltering_nodelet" />
+      <config projectName="hdl_graph_slam" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="hdl_graph_slam" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="hdl_graph_slam" targetName="nmea_msgs_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="bond_generate_messages_py" />
+      <config projectName="hdl_graph_slam" targetName="std_msgs_generate_messages_cpp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b47dff3-24b5-4d5e-9147-dbad5b670ca2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/apps/floor_detection_nodelet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/apps/floor_detection_nodelet.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/hdl_graph_slam_nodelet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/apps/hdl_graph_slam_nodelet.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/prefiltering_nodelet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/apps/prefiltering_nodelet.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/scan_matching_odometry_nodelet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/apps/scan_matching_odometry_nodelet.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/hdl_graph_slam/information_matrix_calculator.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/hdl_graph_slam/information_matrix_calculator.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/hdl_graph_slam/loop_detector.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/hdl_graph_slam/loop_detector.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch/hdl_graph_slam_400.launch" beforeDir="false" afterPath="$PROJECT_DIR$/launch/hdl_graph_slam_400.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch/hdl_graph_slam_501.launch" beforeDir="false" afterPath="$PROJECT_DIR$/launch/hdl_graph_slam_501.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch/hdl_graph_slam_ford.launch" beforeDir="false" afterPath="$PROJECT_DIR$/launch/hdl_graph_slam_ford.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hdl_graph_slam/graph_slam.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/hdl_graph_slam/graph_slam.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hdl_graph_slam/information_matrix_calculator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/hdl_graph_slam/information_matrix_calculator.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hdl_graph_slam/registrations.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/hdl_graph_slam/registrations.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="hdl_graph_slam_nodelet.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/hdl_graph_slam_nodelet.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="388" column="9" selection-start-line="388" selection-start-column="9" selection-end-line="388" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="floor_detection_nodelet.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/floor_detection_nodelet.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3193">
+              <caret line="59" column="125" lean-forward="true" selection-start-line="59" selection-start-column="82" selection-end-line="59" selection-end-column="125" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scan_matching_odometry_nodelet.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/scan_matching_odometry_nodelet.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="65" column="69" lean-forward="true" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="69" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prefiltering_nodelet.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/prefiltering_nodelet.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1116">
+              <caret line="70" column="12" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="graph_slam.hpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/hdl_graph_slam/graph_slam.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1296">
+              <caret line="75" column="46" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loop_detector.hpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/hdl_graph_slam/loop_detector.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keyframe.hpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/hdl_graph_slam/keyframe.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="information_matrix_calculator.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hdl_graph_slam/information_matrix_calculator.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keyframe_updater.hpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/hdl_graph_slam/keyframe_updater.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="52" column="24" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hdl_graph_slam_ford.launch" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/launch/hdl_graph_slam_ford.launch">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="12" column="88" lean-forward="true" selection-start-line="12" selection-start-column="88" selection-end-line="12" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>points_pub</find>
+      <find>plane_clip</find>
+      <find>normal_filtering</find>
+      <find>distance_filter</find>
+      <find>downsample</find>
+      <find>flush_keyframe_queue</find>
+      <find>optimization_timer_callback</find>
+      <find>distance_from_last_edge_thresh</find>
+      <find>find_candidates</find>
+      <find>matching</find>
+      <find>detect</find>
+      <find>calc_fitness_score</find>
+      <find>max_range</find>
+      <find>add_se3_point_xyz_edge</find>
+      <find>map_points_publish_timer_callback</find>
+      <find>flush_gps_queue</find>
+      <find>keyframe_delta_trans</find>
+      <find>transform_thresholding</find>
+      <find>floor_edge_stddev</find>
+      <find>max_keyframes_per_update</find>
+      <find>mi</find>
+      <find>inf_calclator</find>
+      <find>graph_update_interval</find>
+      <find>map_cloud_update_interval</find>
+      <find>max_acceptable_trans</find>
+      <find>distance_near_thresh</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/launch/hdl_graph_slam_400.launch" />
+        <option value="$PROJECT_DIR$/launch/hdl_graph_slam_501.launch" />
+        <option value="$PROJECT_DIR$/launch/hdl_graph_slam_ford_2.launch" />
+        <option value="$PROJECT_DIR$/apps/floor_detection_nodelet.cpp" />
+        <option value="$PROJECT_DIR$/src/hdl_graph_slam/registrations.cpp" />
+        <option value="$PROJECT_DIR$/apps/scan_matching_odometry_nodelet.cpp" />
+        <option value="$PROJECT_DIR$/include/hdl_graph_slam/loop_detector.hpp" />
+        <option value="$PROJECT_DIR$/include/hdl_graph_slam/information_matrix_calculator.hpp" />
+        <option value="$PROJECT_DIR$/src/hdl_graph_slam/information_matrix_calculator.cpp" />
+        <option value="$PROJECT_DIR$/apps/hdl_graph_slam_nodelet.cpp" />
+        <option value="$PROJECT_DIR$/src/hdl_graph_slam/graph_slam.cpp" />
+        <option value="$PROJECT_DIR$/apps/prefiltering_nodelet.cpp" />
+        <option value="$PROJECT_DIR$/launch/hdl_graph_slam_ford.launch" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="198" />
+    <option name="y" value="194" />
+    <option name="width" value="1460" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hdl_graph_slam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hdl_graph_slam" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="hdl_graph_slam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hdl_graph_slam" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="hdl_graph_slam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hdl_graph_slam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hdl_graph_slam" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="hdl_graph_slam" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hdl_graph_slam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hdl_graph_slam" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="hdl_graph_slam" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hdl_graph_slam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hdl_graph_slam" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="hdl_graph_slam" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hdl_graph_slam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hdl_graph_slam" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="hdl_graph_slam" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+              <item name="hdl_graph_slam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hdl_graph_slam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hdl_graph_slam" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="hdl_graph_slam" type="462c0819:PsiDirectoryNode" />
+              <item name="launch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hdl_graph_slam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hdl_graph_slam" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="hdl_graph_slam" type="462c0819:PsiDirectoryNode" />
+              <item name="msg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hdl_graph_slam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hdl_graph_slam" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="hdl_graph_slam" type="462c0819:PsiDirectoryNode" />
+              <item name="rviz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hdl_graph_slam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hdl_graph_slam" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="hdl_graph_slam" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hdl_graph_slam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hdl_graph_slam" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="hdl_graph_slam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hdl_graph_slam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hdl_graph_slam" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="hdl_graph_slam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hdl_graph_slam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hdl_graph_slam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hdl_graph_slam" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="hdl_graph_slam" type="462c0819:PsiDirectoryNode" />
+              <item name="srv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hdl_graph_slam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="hdl_graph_slam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Header Search Paths" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application._hdl_graph_slam_generate_messages_check_deps_FloorCoeffs">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="_hdl_graph_slam_generate_messages_check_deps_FloorCoeffs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="_hdl_graph_slam_generate_messages_check_deps_FloorCoeffs" CONFIG_NAME="Debug" />
+    <configuration name="_hdl_graph_slam_generate_messages_check_deps_SaveMap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="_hdl_graph_slam_generate_messages_check_deps_SaveMap" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="actionlib_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="actionlib_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="actionlib_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="actionlib_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="actionlib_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="actionlib_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="actionlib_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="actionlib_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="actionlib_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="actionlib_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="bond_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="bond_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="bond_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="bond_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="bond_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="bond_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="bond_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="bond_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="bond_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="bond_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug" />
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug" />
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="doxygen" CONFIG_NAME="Debug" />
+    <configuration name="dynamic_reconfigure_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="dynamic_reconfigure_gencfg" CONFIG_NAME="Debug" />
+    <configuration name="dynamic_reconfigure_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="dynamic_reconfigure_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="dynamic_reconfigure_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="dynamic_reconfigure_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="dynamic_reconfigure_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="dynamic_reconfigure_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="dynamic_reconfigure_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="dynamic_reconfigure_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="dynamic_reconfigure_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="dynamic_reconfigure_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="floor_detection_nodelet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="floor_detection_nodelet" CONFIG_NAME="Debug" />
+    <configuration name="geographic_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="geographic_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="geographic_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="geographic_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="geographic_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="geographic_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="geographic_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="geographic_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="geographic_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="geographic_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="geometry_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="geometry_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="geometry_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="geometry_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="gmock" CONFIG_NAME="Debug" />
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="gmock_main" CONFIG_NAME="Debug" />
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="gtest" CONFIG_NAME="Debug" />
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="gtest_main" CONFIG_NAME="Debug" />
+    <configuration name="hdl_graph_slam_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="hdl_graph_slam_gencpp" CONFIG_NAME="Debug" />
+    <configuration name="hdl_graph_slam_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="hdl_graph_slam_generate_messages" CONFIG_NAME="Debug" />
+    <configuration name="hdl_graph_slam_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="hdl_graph_slam_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="hdl_graph_slam_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="hdl_graph_slam_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="hdl_graph_slam_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="hdl_graph_slam_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="hdl_graph_slam_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="hdl_graph_slam_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="hdl_graph_slam_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="hdl_graph_slam_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="hdl_graph_slam_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="hdl_graph_slam_geneus" CONFIG_NAME="Debug" />
+    <configuration name="hdl_graph_slam_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="hdl_graph_slam_genlisp" CONFIG_NAME="Debug" />
+    <configuration name="hdl_graph_slam_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="hdl_graph_slam_gennodejs" CONFIG_NAME="Debug" />
+    <configuration name="hdl_graph_slam_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="hdl_graph_slam_genpy" CONFIG_NAME="Debug" />
+    <configuration name="hdl_graph_slam_nodelet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="hdl_graph_slam_nodelet" CONFIG_NAME="Debug" />
+    <configuration name="nmea_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="nmea_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="nmea_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="nmea_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="nmea_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="nmea_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="nmea_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="nmea_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="nmea_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="nmea_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="nodelet_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="nodelet_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="nodelet_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="nodelet_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="nodelet_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="nodelet_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="nodelet_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="nodelet_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="nodelet_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="nodelet_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="nodelet_topic_tools_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="nodelet_topic_tools_gencfg" CONFIG_NAME="Debug" />
+    <configuration name="pcl_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="pcl_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="pcl_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="pcl_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="pcl_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="pcl_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="pcl_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="pcl_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="pcl_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="pcl_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="pcl_ros_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="pcl_ros_gencfg" CONFIG_NAME="Debug" />
+    <configuration name="prefiltering_nodelet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="prefiltering_nodelet" CONFIG_NAME="Debug" />
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="run_tests" CONFIG_NAME="Debug" />
+    <configuration name="scan_matching_odometry_nodelet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="scan_matching_odometry_nodelet" CONFIG_NAME="Debug" />
+    <configuration name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="sensor_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="sensor_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="sensor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="sensor_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="sensor_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="sensor_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="sensor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="sensor_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="std_srvs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="std_srvs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="std_srvs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="std_srvs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="std_srvs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="std_srvs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="std_srvs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="std_srvs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="std_srvs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="std_srvs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="tests" CONFIG_NAME="Debug" />
+    <configuration name="tf2_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="tf2_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="tf2_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="tf2_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="tf2_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="tf2_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="tf2_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="tf2_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="tf2_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="tf2_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="tf_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="tf_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="tf_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="tf_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="tf_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="tf_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="tf_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="tf_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="tf_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="tf_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="topic_tools_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="topic_tools_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="topic_tools_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="topic_tools_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="topic_tools_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="topic_tools_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="topic_tools_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="topic_tools_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="topic_tools_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="topic_tools_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="uuid_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="uuid_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="uuid_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="uuid_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="uuid_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="uuid_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="uuid_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="uuid_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="uuid_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hdl_graph_slam" TARGET_NAME="uuid_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application._hdl_graph_slam_generate_messages_check_deps_FloorCoeffs" />
+      <item itemvalue="Application._hdl_graph_slam_generate_messages_check_deps_SaveMap" />
+      <item itemvalue="Application.actionlib_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_generate_messages_py" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_py" />
+      <item itemvalue="Application.bond_generate_messages_cpp" />
+      <item itemvalue="Application.bond_generate_messages_eus" />
+      <item itemvalue="Application.bond_generate_messages_lisp" />
+      <item itemvalue="Application.bond_generate_messages_nodejs" />
+      <item itemvalue="Application.bond_generate_messages_py" />
+      <item itemvalue="Application.clean_test_results" />
+      <item itemvalue="Application.download_extra_data" />
+      <item itemvalue="Application.doxygen" />
+      <item itemvalue="Application.dynamic_reconfigure_gencfg" />
+      <item itemvalue="Application.dynamic_reconfigure_generate_messages_cpp" />
+      <item itemvalue="Application.dynamic_reconfigure_generate_messages_eus" />
+      <item itemvalue="Application.dynamic_reconfigure_generate_messages_lisp" />
+      <item itemvalue="Application.dynamic_reconfigure_generate_messages_nodejs" />
+      <item itemvalue="Application.dynamic_reconfigure_generate_messages_py" />
+      <item itemvalue="Application.floor_detection_nodelet" />
+      <item itemvalue="Application.geographic_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.geographic_msgs_generate_messages_eus" />
+      <item itemvalue="Application.geographic_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.geographic_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.geographic_msgs_generate_messages_py" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_eus" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_py" />
+      <item itemvalue="Application.hdl_graph_slam_gencpp" />
+      <item itemvalue="Application.hdl_graph_slam_generate_messages" />
+      <item itemvalue="Application.hdl_graph_slam_generate_messages_cpp" />
+      <item itemvalue="Application.hdl_graph_slam_generate_messages_eus" />
+      <item itemvalue="Application.hdl_graph_slam_generate_messages_lisp" />
+      <item itemvalue="Application.hdl_graph_slam_generate_messages_nodejs" />
+      <item itemvalue="Application.hdl_graph_slam_generate_messages_py" />
+      <item itemvalue="Application.hdl_graph_slam_geneus" />
+      <item itemvalue="Application.hdl_graph_slam_genlisp" />
+      <item itemvalue="Application.hdl_graph_slam_gennodejs" />
+      <item itemvalue="Application.hdl_graph_slam_genpy" />
+      <item itemvalue="Application.hdl_graph_slam_nodelet" />
+      <item itemvalue="Application.nmea_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.nmea_msgs_generate_messages_eus" />
+      <item itemvalue="Application.nmea_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.nmea_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.nmea_msgs_generate_messages_py" />
+      <item itemvalue="Application.nodelet_generate_messages_cpp" />
+      <item itemvalue="Application.nodelet_generate_messages_eus" />
+      <item itemvalue="Application.nodelet_generate_messages_lisp" />
+      <item itemvalue="Application.nodelet_generate_messages_nodejs" />
+      <item itemvalue="Application.nodelet_generate_messages_py" />
+      <item itemvalue="Application.nodelet_topic_tools_gencfg" />
+      <item itemvalue="Application.pcl_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.pcl_msgs_generate_messages_eus" />
+      <item itemvalue="Application.pcl_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.pcl_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.pcl_msgs_generate_messages_py" />
+      <item itemvalue="Application.pcl_ros_gencfg" />
+      <item itemvalue="Application.prefiltering_nodelet" />
+      <item itemvalue="Application.roscpp_generate_messages_cpp" />
+      <item itemvalue="Application.roscpp_generate_messages_eus" />
+      <item itemvalue="Application.roscpp_generate_messages_lisp" />
+      <item itemvalue="Application.roscpp_generate_messages_nodejs" />
+      <item itemvalue="Application.roscpp_generate_messages_py" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_eus" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_py" />
+      <item itemvalue="Application.run_tests" />
+      <item itemvalue="Application.scan_matching_odometry_nodelet" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_eus" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_py" />
+      <item itemvalue="Application.std_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.std_msgs_generate_messages_eus" />
+      <item itemvalue="Application.std_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.std_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.std_msgs_generate_messages_py" />
+      <item itemvalue="Application.std_srvs_generate_messages_cpp" />
+      <item itemvalue="Application.std_srvs_generate_messages_eus" />
+      <item itemvalue="Application.std_srvs_generate_messages_lisp" />
+      <item itemvalue="Application.std_srvs_generate_messages_nodejs" />
+      <item itemvalue="Application.std_srvs_generate_messages_py" />
+      <item itemvalue="Application.tests" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_eus" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_py" />
+      <item itemvalue="Application.tf_generate_messages_cpp" />
+      <item itemvalue="Application.tf_generate_messages_eus" />
+      <item itemvalue="Application.tf_generate_messages_lisp" />
+      <item itemvalue="Application.tf_generate_messages_nodejs" />
+      <item itemvalue="Application.tf_generate_messages_py" />
+      <item itemvalue="Application.topic_tools_generate_messages_cpp" />
+      <item itemvalue="Application.topic_tools_generate_messages_eus" />
+      <item itemvalue="Application.topic_tools_generate_messages_lisp" />
+      <item itemvalue="Application.topic_tools_generate_messages_nodejs" />
+      <item itemvalue="Application.topic_tools_generate_messages_py" />
+      <item itemvalue="Application.uuid_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.uuid_msgs_generate_messages_eus" />
+      <item itemvalue="Application.uuid_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.uuid_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.uuid_msgs_generate_messages_py" />
+      <item itemvalue="Application.gmock" />
+      <item itemvalue="Application.gmock_main" />
+      <item itemvalue="Application.gtest" />
+      <item itemvalue="Application.gtest_main" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b47dff3-24b5-4d5e-9147-dbad5b670ca2" name="Default" comment="" />
+      <created>1535640372925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535640372925</updated>
+      <workItem from="1535640376543" duration="33892000" />
+      <workItem from="1535771686098" duration="11029000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44921000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1212" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19460917" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CMake" order="7" visible="true" weight="0.15145986" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/apps/hdl_graph_slam_nodelet.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9036">
+          <caret line="502" lean-forward="true" selection-start-line="502" selection-end-line="502" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/hdl_graph_slam/loop_detector.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/hdl_graph_slam/keyframe.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="64" lean-forward="true" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdl_graph_slam/graph_slam.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/hdl_graph_slam/graph_slam.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="75" column="46" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/eigen3/Eigen/src/Core/Matrix.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5094">
+          <caret line="283" column="24" selection-start-line="283" selection-start-column="24" selection-end-line="283" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdl_graph_slam/information_matrix_calculator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/pcl-1.8/pcl/search/kdtree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2466">
+          <caret line="137" column="18" selection-start-line="137" selection-start-column="18" selection-end-line="137" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/hdl_graph_slam/information_matrix_calculator.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/launch/hdl_graph_slam_ford.launch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="46" column="8" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/map2odom_publisher.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodelet_plugins.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="103" column="12" lean-forward="true" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/pcl-1.8/pcl/filters/plane_clipper3D.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="58" column="93" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/launch/hdl_graph_slam_ford_2.launch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/pcl-1.8/pcl/filters/impl/plane_clipper3D.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="177" selection-start-line="177" selection-end-line="177" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/pcl-1.8/pcl/filters/filter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="177" column="12" selection-start-line="177" selection-start-column="12" selection-end-line="177" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/pcl-1.8/pcl/registration/impl/registration.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="57" column="53" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/pcl-1.8/pcl/registration/registration.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="198" column="37" lean-forward="true" selection-start-line="198" selection-start-column="37" selection-end-line="198" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/pcl-1.8/pcl/filters/extract_indices.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="85" column="39" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/nodelet/nodelet.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="193" column="31" lean-forward="true" selection-start-line="193" selection-start-column="31" selection-end-line="193" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ndt_omp/include/pclomp/ndt_omp.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="108" column="22" lean-forward="true" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdl_graph_slam/keyframe.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="53" column="6" lean-forward="true" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdl_graph_slam/registrations.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="50" column="11" lean-forward="true" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/message_filters/synchronizer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="307" column="13" selection-start-line="307" selection-start-column="13" selection-end-line="307" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/hdl_graph_slam/ros_utils.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdl_graph_slam/map_cloud_generator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/shared_ptr.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="228" column="6" selection-start-line="228" selection-start-column="6" selection-end-line="228" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/eigen3/Eigen/src/Geometry/Transform.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="633" column="36" selection-start-line="633" selection-start-column="36" selection-end-line="633" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/pcl-1.8/pcl/search/kdtree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2466">
+          <caret line="137" column="18" selection-start-line="137" selection-start-column="18" selection-end-line="137" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/hdl_graph_slam/information_matrix_calculator.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/geodesy/utm.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="177" column="5" selection-start-line="177" selection-start-column="5" selection-end-line="177" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/eigen3/Eigen/src/Core/Matrix.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="271" column="24" selection-start-line="271" selection-start-column="24" selection-end-line="271" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="276" column="6" selection-start-line="276" selection-start-column="6" selection-end-line="276" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/launch/hdl_graph_slam_501.launch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/launch/hdl_graph_slam_400.launch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-619">
+          <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdl_graph_slam/graph_slam.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="100" selection-start-line="100" selection-end-line="116" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/hatchery/lib/hatchery-0.2.1.jar!/edu/umontreal/hatchery/roslaunch/roslaunch.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="241" column="12" selection-start-line="241" selection-start-column="12" selection-end-line="241" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/hdl_graph_slam/keyframe.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hdl_graph_slam/information_matrix_calculator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/hdl_graph_slam_nodelet.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="388" column="9" selection-start-line="388" selection-start-column="9" selection-end-line="388" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/floor_detection_nodelet.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3193">
+          <caret line="59" column="125" lean-forward="true" selection-start-line="59" selection-start-column="82" selection-end-line="59" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/scan_matching_odometry_nodelet.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="65" column="69" lean-forward="true" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/hdl_graph_slam/graph_slam.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="75" column="46" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/hdl_graph_slam/loop_detector.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/hdl_graph_slam/keyframe_updater.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="52" column="24" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/launch/hdl_graph_slam_ford.launch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="12" column="88" lean-forward="true" selection-start-line="12" selection-start-column="88" selection-end-line="12" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/prefiltering_nodelet.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1116">
+          <caret line="70" column="12" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
